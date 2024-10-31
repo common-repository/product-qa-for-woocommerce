@@ -1,0 +1,149 @@
+# Copyright (C) 2018 Blocks Kit
+# This file is distributed under the GPL2+.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product QA For Woocommerce\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/blocks-"
+"kit\n"
+"POT-Creation-Date: 2018-12-06 14:33+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Blocks Kit\n"
+"Language-Team: Alkesh Miyani <miyanialkesh7@gmail.com>\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-product-faq-woocommmerce-settings.php:52
+msgid "Product QA"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:78
+msgid "Category Wise Discount"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:80
+msgid "<h3>Settings<h3>"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:85
+#: admin/class-product-faq-woocommmerce-settings.php:90
+msgid "Enable qa feature"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:86
+msgid ""
+"You want to enable qa feature on front-end side product detail page"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:102
+msgid "Select Categories"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:103
+msgid ""
+"Multi-select categories, products with selected categories have QA "
+"feature. \n"
+"\t\t\t\t\t\t\t\t\t(Note : Empty selection, enables QA feature for "
+"all products.)"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:109
+msgid ""
+"Multi-select categories, products is selected categories have qa "
+"feature.\n"
+"\t\t\t\t\t\t\t\t(Note : Empty selection, enables QA feature for all "
+"products.)"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:115
+msgid "Sender email"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:116
+msgid "Add sender email, by that email all commnunication works."
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:123
+msgid "Logo url"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:124
+msgid "Add logo url which you want to add in email"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:132
+msgid "Question email's title"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:133
+msgid "Title which visible on top of question email."
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:139
+msgid "Question email's subject"
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:140
+#: admin/class-product-faq-woocommmerce-settings.php:147
+msgid "Subject which visible on top of question email."
+msgstr ""
+
+#: admin/class-product-faq-woocommmerce-settings.php:146
+msgid "Question email's button text"
+msgstr ""
+
+#: public/class-product-faq-for-woocommerce-public.php:138
+msgid "QA"
+msgstr ""
+
+#: public/class-product-faq-for-woocommerce-public.php:222
+msgid "<strong>Question : </strong>"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:16
+msgid "Question Answers"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:52
+msgid "Answer Now"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:56
+msgid "Your answer..."
+msgstr ""
+
+#: public/templates/list-questions-answers.php:70
+msgid "A"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:85
+msgid "Not any questions yet, be the first to ask question ?"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:90
+msgid "Ask Question Now!"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:92
+msgid "Your question ?"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:94
+msgid "Ask Now"
+msgstr ""
+
+#: public/templates/list-questions-answers.php:98
+msgid "Please login to to ask questions...... now"
+msgstr ""

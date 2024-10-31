@@ -1,0 +1,61 @@
+/**
+ * Public-facing css.
+ */
+
+/**
+ * Markup @'public/templates/list-questions-answers.php'
+ * Question Answer CSS.
+ */
+.wc-questions,
+.wc-answers {
+    list-style: none;
+}
+.wc-questions {
+    margin-bottom: 15px;
+}
+.wc-answers {
+    margin-bottom: 5px;
+}
+.question-symbol,
+.answer-symbol {
+    background-color: #4c4c4c;
+    color: white;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    height: 25px;
+    line-height: 1.5;
+    margin-right: 10px;
+    padding: 2px;
+    text-align: center;
+    width: 25px;
+}
+.wc-faq-answers {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.answer-slide {
+    display: none;
+    padding: 15px 40px;
+}
+.field-answer,
+.field-question {
+    margin-bottom: 10px;
+}
+.answer-button {
+    background: #1a1a1a;
+    border: 0 none;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+.answer-button:hover {
+    background: #007acc;
+    color: #ffffff;
+}
